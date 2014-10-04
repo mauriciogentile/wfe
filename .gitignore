@@ -1,0 +1,14 @@
+/src/Core.Impl/obj/Debug
+
+/src/Core/bin/Debug
+
+/src/Core/obj/Debug
+
+/src/Core.Impl/bin/Debug
+
+/src/Data/bin/Debug
+
+/src/Data/obj/Debug
+/src/Db/obj/Debug/*.cache
+
+/src/Core/*.suo
